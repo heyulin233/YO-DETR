@@ -1,0 +1,11 @@
+# dataset path
+path: /home/s317/users/lfq/RTDETR-main/
+train: ./dataset/datasets/train
+val: ./dataset/datasets/valid
+test: ./dataset/datasets/test
+
+# number of classes
+nc: 3
+
+# class names
+names: [ 'Point of faliure','Plate front','insert back']
